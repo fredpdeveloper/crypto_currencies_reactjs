@@ -1,0 +1,7 @@
+/*TICKERS CONTEXT*/ 
+export const GET_SALES = 'GET_TICKER';
+export const SET_LOADING = 'SET_LOADING';
+export const FAILED_SALES = 'FAILED_TICKER';
+
+export const GET_ALL_TICKER = 'GET_ALL_TICKER';
+export const FAILED_ALL_TICKER = 'FAILED_ALL_TICKER';
